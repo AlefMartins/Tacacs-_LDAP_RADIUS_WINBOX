@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1740083262746",
+    "name": "AJU-MVT-OLT-DATACOM-MVT",
+    "ip": "172.26.1.186",
+    "port": "22",
+    "manufacturer": "datacom",
+    "groups": [
+      "TC-Admin",
+      "TC-Noc",
+      "TC-Monitor"
+    ],
+    "status": "online",
+    "createdBy": "alef.martins",
+    "createdAt": "2025-02-20T20:27:42.746Z",
+    "updatedBy": "alef.martins",
+    "updatedAt": "2025-02-20T20:29:00.619Z"
+  }
+]

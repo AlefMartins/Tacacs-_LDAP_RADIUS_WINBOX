@@ -1,0 +1,42 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2",
+    "ldapjs": "^3.0.7",
+    "lodash": "^4.17.21",
+    "mysql2": "^3.12.0",
+    "net": "^1.0.2",
+    "node-schedule": "^2.1.1",
+    "nodemailer": "^6.10.0",
+    "ping": "^0.4.4",
+    "sequelize": "^6.37.5",
+    "sequelize-cli": "^6.6.2",
+    "sharp": "^0.33.5",
+    "ssh2": "^1.16.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "tacacs-plus": "^1.2.3",
+    "unzipper": "^0.12.3",
+    "winston": "^3.17.0",
+    "ws": "^8.18.0"
+  }
+}
